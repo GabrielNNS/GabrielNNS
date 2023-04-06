@@ -1,11 +1,9 @@
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
+## Olá!
 
-~~~php
-Esta é uma linha de código em PHP.
-~~~
+- 📘 Estudando Java
 
-~~~html
-Esta é uma linha de código em HTML.
-~~~
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/gabrielnsilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
