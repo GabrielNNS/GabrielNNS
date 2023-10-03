@@ -1,6 +1,7 @@
 ## Olá!
 
 - 📘 Estudando Java
+- 📘 Estudando Python
 
 ##
 
